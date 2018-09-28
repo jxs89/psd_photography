@@ -1,0 +1,34 @@
+{
+  "name": "02_photography",
+  "version": "1.0.0",
+  "description": "### Getting started",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jake simmons",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.0.1",
+    "@babel/preset-env": "^7.0.0",
+    "babelify": "^10.0.0",
+    "browser-sync": "^2.24.7",
+    "browserify": "^16.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-notify": "^3.2.0",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxs89/psd_photography.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jxs89/psd_photography/issues"
+  },
+  "homepage": "https://github.com/jxs89/psd_photography#readme",
+  "devDependencies": {
+    "gulp-sass": "^4.0.1"
+  }
+}
